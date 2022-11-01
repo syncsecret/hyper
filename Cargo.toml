@@ -33,11 +33,11 @@ version = "0.10.42"
 optional = true
 
 [dependencies.openssl-verify]
-version = "0.1"
+version = "0.2.0"
 optional = true
 
 [dependencies.security-framework]
-version = "0.1.4"
+version = "2.7.0"
 optional = true
 
 [dependencies.serde]
