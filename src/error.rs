@@ -9,8 +9,6 @@ use httparse;
 use url;
 
 #[cfg(feature = "openssl")]
-use openssl::ssl::error::SslError;
-
 use self::Error::{
     Method,
     Uri,
